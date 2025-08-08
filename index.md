@@ -5,8 +5,7 @@ description: "Profile, experience, research and contact details of Bhavesh Soni"
 
 # Bhavesh Soni
 **Assistant Professor — Prestige Institute of Management & Research (UG), Indore**  
-5, Rajesh Nagar, Near Nandlalpura Telegram office, Indore  
-M: 98260 91404 · Email: bhavesh_soni@pimrindore.ac.in
+
 
 > Profile details and professional summary taken from the uploaded CV. :contentReference[oaicite:0]{index=0}
 
@@ -83,8 +82,6 @@ Skilled in creating cohesive learning atmospheres, developing lessons and activi
 ---
 
 ## Contact
-- **Mobile:** 98260 91404  
-- **Email:** bhavesh_soni@pimrindore.ac.in
 
 ---
 
@@ -100,3 +97,4 @@ If you want, I can:
 - Generate a `README.md` variant optimized for your GitHub profile.
 
 Which one should I prepare next? 😊
+
